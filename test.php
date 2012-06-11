@@ -1,4 +1,4 @@
 <?php 
-echo 'this is my first linest line';
+echo 'this is my first line';
 ?>
 
